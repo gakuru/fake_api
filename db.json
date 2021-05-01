@@ -1,54 +1,53 @@
 {
-  "achievements": [
-    {
-      "id": 1,
-      "title": "Huge step",
-      "year": 2021,
-      "content": "Started construction of my house at utawata",
-      "misc": {
-        "color": "#d64f4f",
-        "icon": "home",
-      }
-    },
-    {
-      "id": 2,
-      "title": "First engagement",
-      "year": 2020,
-      "content": "Joined Foursquare as a contractor",
-      "misc": {
-        "color": "#e8853f",
-        "icon": "home",
-      }
-    },
-    {
-      "id": 3,
-      "title": "Joined Andela",
-      "year": 2019,
-      "content": "Joined Andela as a full time employee",
-      "misc": {
-        "color": "#e8853f",
-        "icon": "home",
-      }
-    },
-    {
-      "id": 4,
-      "title": "Joined Okaki",
-      "year": 2018,
-      "content": "Joined Okaki as as a Full time employee",
-      "misc": {
-        "color": "#e8c93f",
-        "icon": "home",
-      }
-    },
-    {
-      "id": 5,
-      "title": "One year",
-      "year": 2017,
-      "content": "One year at Herufi",
-      "misc": {
-        "color": "#88e83f",
-        "icon": "home",
-      }
-    }
-  ]
+	"achievements": [{
+			"id": 1,
+			"title": "Huge step",
+			"year": 2021,
+			"content": "Started construction of my house at utawata",
+			"misc": {
+				"color": "#d64f4f",
+				"icon": "home"
+			}
+		},
+		{
+			"id": 2,
+			"title": "First engagement",
+			"year": 2020,
+			"content": "Joined Foursquare as a contractor",
+			"misc": {
+				"color": "#e8853f",
+				"icon": "home"
+			}
+		},
+		{
+			"id": 3,
+			"title": "Joined Andela",
+			"year": 2019,
+			"content": "Joined Andela as a full time employee",
+			"misc": {
+				"color": "#e8853f",
+				"icon": "home"
+			}
+		},
+		{
+			"id": 4,
+			"title": "Joined Okaki",
+			"year": 2018,
+			"content": "Joined Okaki as as a Full time employee",
+			"misc": {
+				"color": "#e8c93f",
+				"icon": "home"
+			}
+		},
+		{
+			"id": 5,
+			"title": "One year",
+			"year": 2017,
+			"content": "One year at Herufi",
+			"misc": {
+				"color": "#88e83f",
+				"icon": "home"
+			}
+		}
+	]
 }
